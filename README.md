@@ -5,7 +5,7 @@ The folder FMR contains R functions of the model SFMR for the simulation studies
 The folder TFGSG contains R functions of the model TFGSG for the simulation studies in section 5. 
 The folder lung data contains the R code and data sets used in section 6. The code consists of the following files: 
 
-"APGL1.R"  functions used for the code of simulation
+"APGL1.R"  functions used for simulation
 "lungsim.R" estimate parameters for the lung data
 "*_1.R" estimate parameters for case 1 of Study 1  in the simulations
 "*_2.R" estimate parameters for case 2 of Study 1  in the simulations
